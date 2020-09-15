@@ -1,0 +1,11 @@
+{
+    "name": "hummus-test",
+    "packages": [],
+    "output": "bin",
+    "exclude": [
+        ".gitignore",
+        "README.md"
+    ],
+    "native": [],
+    "entry": "main.hummus"
+}
