@@ -1,6 +1,6 @@
-# hummus-test
+# bootstrap-hummus
 
-This is the README of hummus-test
+This library provides bootstrap bindings for Hummus.
 
 ## Getting started
 
