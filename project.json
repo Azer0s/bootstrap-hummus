@@ -1,5 +1,5 @@
 {
-    "name": "hummus-test",
+    "name": "bootstrap-hummus",
     "packages": [],
     "output": "bin",
     "exclude": [
@@ -7,5 +7,5 @@
         "README.md"
     ],
     "native": [],
-    "entry": "main.hummus"
+    "entry": "lib.hummus"
 }
